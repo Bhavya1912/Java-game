@@ -102,5 +102,5 @@ I can't find any bug in my code, if any one find the bug please tell me about th
 
 I done my level best to build this game 
 
-name: Vuppala Shyam
-mail: vuppala.shyam@gmail.com
+name: Bhavya Tyagi
+mail: btyagi119@gmail.com
