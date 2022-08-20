@@ -71,6 +71,8 @@ Rename bakup file named execute.bat.bak to execute.bat and then click the file t
 ////////////////
 
 
+
+
 PLAYER CONTROLS:
 
 1) Initially use <up> and <down> arrow key to change the level of the game.
