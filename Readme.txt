@@ -1,6 +1,7 @@
 PUYO-PUYO GAME:
 
 
+
 RULES OF GAME:
  
 1) Spheres(puyos) come down from the top of the game board in pairs.
